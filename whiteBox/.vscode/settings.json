@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Users\\LENOVO\\Downloads\\junit-platform-console-standalone-1.10.0.jar",
+        "c:\\Users\\LENOVO\\OneDrive\\Documents\\DG-KDCLPM-LT4-_whiteBox\\whiteBox\\lib\\junit-platform-console-standalone-1.10.0.jar"
+    ]
+}

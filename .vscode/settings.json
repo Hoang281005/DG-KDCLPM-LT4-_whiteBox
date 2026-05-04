@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "whiteBox\\src",
+        "whiteBox\\src\\main\\java"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\LENOVO\\Downloads\\junit-platform-console-standalone-1.10.0.jar"
+    ]
+}
