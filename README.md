@@ -75,13 +75,3 @@ Danh sách test case được thiết kế trong file JUnit, bao gồm:
 - Test ngoại lệ (exception cases)
 
 ---
-
-## ▶️ Cách chạy chương trình
-
-### Chạy bằng IDE (IntelliJ / Eclipse)
-- Run file `main`
-- Run JUnit test
-
-### Chạy bằng Maven
-```bash
-mvn test
