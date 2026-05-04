@@ -1,10 +1,9 @@
 # 📘 BÀI THỰC HÀNH 04 - KIỂM THỬ HỘP TRẮNG (WHITE-BOX TESTING)
 
 ## 👤 Thông tin sinh viên
-- Họ tên: ...
-- Mã sinh viên: ...
-- Lớp: ...
-- Môn học: Kiểm thử phần mềm
+- Họ tên: Nguyen Huy Hoang
+- Mã sinh viên: 23010143
+- Môn học: Đánh giá & Kiểm thử phần mềm
 
 ---
 
